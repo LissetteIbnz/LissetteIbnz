@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Lissette. I'm a Fullstack Developer from Tenerife, Canary Islands 🌞⛱
+
+I'm currently working at [Basefactor](https://www.basefactor.com/) as a Frontend Developer and at [Lemoncode](https://lemoncode.net/) as an Instructor.
+
 <!--
 **LissetteIbnz/LissetteIbnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
