@@ -1,18 +1,29 @@
 ![Hello 👋](https://res.cloudinary.com/lissetteibnz/image/upload/q_61/v1595184723/template_q3jjri.jpg)
 
-I'm Lissette. I'm a Fullstack Developer from Tenerife, Canary Islands 🌞⛱
+## About me
 
-<!--
-**LissetteIbnz/LissetteIbnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Tenerife, Canary Islands 🇮🇨 and I'm currently working as a Senior Frontend Developer at [Seat Code](https://code.seat/).
 
-Here are some ideas to get you started:
+- 🦸‍♀️ Frontend Developer
+- 🖥 Check [my Website](https://lissetteibnz.es)
+- 🎤 Occasional speaker
+- 🧭 Lazy [Github](https://github.com/LissetteIbnz) contributor
+- 🏀 Basketball player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a fan of these technologies
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="TypeScript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react_ts.svg" alt="React" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" alt="Vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-sass.svg" alt="Sass" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="CSS" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="HTML" width="25" height="25" />
+</p>
+
+## Some stats
+
+![Lissette's GitHub stats](https://github-readme-stats.vercel.app/api?username=LissetteIbnz&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetteIbnz&layout=compact&theme=nightowl)
