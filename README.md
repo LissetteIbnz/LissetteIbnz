@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm from Tenerife, Canary Islands 🇮🇨 and I'm currently working as a Senior Frontend Developer at [Freepik]([https://code.seat/](https://www.freepikcompany.com/es/)).
+I'm from Tenerife, Canary Islands 🇮🇨 and I'm currently working as a Senior Frontend Developer at [Freepik](https://www.freepikcompany.com/es/).
 
 - 🦸‍♀️ Frontend Developer
 - 🖥 Check [my Website](https://lissetteibnz.es)
