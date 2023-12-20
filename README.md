@@ -2,13 +2,13 @@
 
 ## About me
 
-I'm from Tenerife, Canary Islands 🇮🇨 and I'm currently working as a Senior Frontend Developer at [Seat Code](https://code.seat/).
+I'm from Tenerife, Canary Islands 🇮🇨 and I'm currently working as a Senior Frontend Developer at [Freepik]([https://code.seat/](https://www.freepikcompany.com/es/)).
 
 - 🦸‍♀️ Frontend Developer
 - 🖥 Check [my Website](https://lissetteibnz.es)
 - 🎤 Occasional speaker
 - 🧭 Lazy [Github](https://github.com/LissetteIbnz) contributor
-- 🏀 Basketball player
+- 🏀 Basketball and Pádel player
 
 ## I'm a fan of these technologies
 
